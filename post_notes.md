@@ -18,3 +18,40 @@ Questions, confusions, ideas, unexpected observations, possible directions.
 
 ## Next Week
 What you want to explore next.
+
+Formatting:
+
+**bold**
+*italic*
+***bold and italic***
+> Quote
+
+> Big
+>
+> Quote
+
+> Nested
+>
+>> Quote
+
+
+
+> #### Quote with other elements!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
+
+1. One
+2. Two
+3. Three
+    1. Four
+    2. Five
+4. Six
+
+- Unordered
+- List
+
+``code``

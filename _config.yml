@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://preview.redd.it/heres-a-sitting-pigeon-for-you-v0-p9c13ydkdjm41.jpg?auto=webp&s=10f1a7186bb847fe965ae9b3f38d5269250054eb"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
